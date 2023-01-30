@@ -13,8 +13,8 @@ I love learning about new tools and technologies.
 <img align="left" alt="vsc" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <br />
 <p float="left">
-<img align="left" width="500" height="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true&layout=compact" />
-<img align="left" alt="lang" width="500" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
+<img width="500" height="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true&layout=compact" />
+<img width="500" height="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
 </p> 
 <br />
 <!--
