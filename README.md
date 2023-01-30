@@ -16,8 +16,8 @@ I love learning about new tools and technologies.
 <br />
 <table>
   <tr>
-    <td valign="top"><img class="img" width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true&hide_border=true&bg_color=#fffefe" /></td>
-    <td valign="top"><img class="img" width="400" alt="lang-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact&hide_border=true&bg_color=#fffefe" /></td>
+    <td valign="top"><img class="img" width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true&hide_border=true&theme=transparent" /></td>
+    <td valign="top"><img class="img" width="400" alt="lang-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact&hide_border=true&theme=transparent" /></td>
   </tr>
 </table>
 <br />
