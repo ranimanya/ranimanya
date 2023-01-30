@@ -20,7 +20,6 @@ I love learning about new tools and technologies.
     <td valign="top"><img class="img" width="400" alt="lang-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact&hide_border=true&theme=transparent" /></td>
   </tr>
 </table>
-<br />
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
