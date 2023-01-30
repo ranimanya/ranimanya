@@ -14,7 +14,7 @@ I love learning about new tools and technologies.
 <br />
 <p float="left">
 <img width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" />
-<img width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true" />
+<img width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
 </p> 
 <br />
 <!--
