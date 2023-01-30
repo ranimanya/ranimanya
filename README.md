@@ -14,7 +14,7 @@ I love learning about new tools and technologies.
 <br />
 <br />
 <br />
-<img align="left" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" />
+<img align="left" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
 <br />
 <br />
