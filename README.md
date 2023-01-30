@@ -1,5 +1,5 @@
 ## ✨ Hi, I'm Manya
-I am an enthusiast and I am currently learning DSA and working on my own projects. <br />
+I am an enthusiast, currently learning DSA and working on my own projects. <br />
 I love learning about new tools and technologies.
 <br />
 ### Languages and tools : 
@@ -15,6 +15,10 @@ I love learning about new tools and technologies.
 <br />
 <br />
 <img align="left" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" />
+<img align="right" alt="lang-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true" />
+<br />
+<br />
+
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
