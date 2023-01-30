@@ -15,7 +15,7 @@ I love learning about new tools and technologies.
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" />
   <img width="500" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
-</div>
+</ div>
 <br />
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
