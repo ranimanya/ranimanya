@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### ✨ Hi, I'm Manya
+I am an enthusiast and I am currently learning DSA and working on my own projects.
+I love learning about new tools and technologies.
+<br />
+#### Languages and tools : 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+[<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">][]
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
