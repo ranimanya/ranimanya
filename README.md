@@ -12,10 +12,14 @@ I love learning about new tools and technologies.
 <img align="left" alt="jupy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 <img align="left" alt="vsc" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <br />
-<div style="display: flex; flex-direction: row;">
-  <img class="img" width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" />
-  <img class="img" width="500" alt="lang-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" />
-</ div>
+<br />
+<br />
+<table>
+  <tr>
+    <td valign="top"><img class="img" width="500" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ranimanya&show_icons=true" /></td>
+    <td valign="top"><img class="img" width="500" alt="lang-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact" /></td>
+  </tr>
+</table>
 <br />
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
