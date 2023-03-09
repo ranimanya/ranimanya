@@ -2,6 +2,7 @@
 I am an enthusiast, currently learning DSA and working on my own projects. <br />
 I love learning about new tools and technologies.
 <br />
+<!--
 ### Languages and tools : 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -22,6 +23,7 @@ I love learning about new tools and technologies.
     <td valign="top"><img class="img" width="400" alt="lang-top" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ranimanya&show_icons=true&layout=compact&hide_border=true&theme=transparent" /></td>
   </tr>
 </table>
+-->
 <!--
 **ranimanya/ranimanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
